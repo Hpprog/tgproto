@@ -12,6 +12,8 @@ For Install :
 
 4: sudo sh Mtproto.sh
 
-one line code : git clonehttps://github.com/Hpprog/tgproto && cd Mtproto && chmod +x Mtproto.sh && sudo sh Mtproto.sh
+one line code :
+
+git clone https://github.com/Hpprog/tgproto && cd Mtproto && chmod +x Mtproto.sh && sudo sh Mtproto.sh
 
 ** For Remove Or Reinstall Proxy : " sudo docker rm -f mtproto-proxy " **
